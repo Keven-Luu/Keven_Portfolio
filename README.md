@@ -9,3 +9,5 @@
 * Outils utilisés : Tableau, SQL, Excel, Actions, Filtres.
 
 * Créer un tableau de bord interactif montrant un aperçu de la rentabilité de Contoso (entreprise fictive) pour l'année 2019.
+
+![](https://github.com/Keven-Luu/portfolio/blob/main/images/TableauImage.png)
