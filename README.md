@@ -5,7 +5,7 @@
 
 * Créer des requêtes permettant d'identifier : Les produits les plus rentables par unité en termes de marge de profit; Les profits totaux réalisés par l'entreprise (fictive); Les produits les plus rentables en général et leur importance relative en termes de profit; Les villes les plus rentables et leur importance relative; Les canaux les plus rentables et leur importance relative.
 
-![](https://github.com/Keven-Luu/portfolio/blob/main/imagess/Datamining222.png)
+![](/imagess/Datamining222.png)
 
 
 
