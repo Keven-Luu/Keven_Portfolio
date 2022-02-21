@@ -5,6 +5,8 @@
 
 * Créer des requêtes permettant d'identifier : Les produits les plus rentables par unité en termes de marge de profit; Les profits totaux réalisés par l'entreprise (fictive); Les produits les plus rentables en général et leur importance relative en termes de profit; Les villes les plus rentables et leur importance relative; Les canaux les plus rentables et leur importance relative.
 
+<a href="url"><img src="https://github.com/Keven-Luu/portfolio/blob/main/images/Datamining222.png" align="left" height="126" width="600" ></a>
+
 # [Projet 2 : Data visualization](https://public.tableau.com/app/profile/keven.luu/viz/Contoso2009Tableaudebordinteractif/Contoso2009Tableaudebordinteractif)
 * Outils utilisés : Tableau, SQL, Excel, Actions, Filtres.
 
