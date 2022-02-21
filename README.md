@@ -12,7 +12,7 @@
 
 * Créer un tableau de bord interactif montrant un aperçu de la rentabilité de Contoso (entreprise fictive) pour l'année 2019.
 
-<a href="url"><img src="https://github.com/Keven-Luu/portfolio/blob/main/images/TableauImage2.png" align="middle" height="338" width="600" ></a>
+<a href="url"><img src="/images/TableauImage2.png" align="middle" height="338" width="600" ></a>
 
 ![](/images/TableauImage2.png)
 
