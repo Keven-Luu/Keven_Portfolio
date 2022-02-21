@@ -1,5 +1,6 @@
 # Portfolio Intelligence d'affaires
 
+&nbsp;
 # [Projet 1 : Data mining](https://github.com/Keven-Luu/Portfolio-projects/blob/main/Data%20mining%20project%20with%20SQL%20(part%201).sql)
 * Outils utilisés : SQL, CTE, Fonctions d’agrégation, Fonctions Windows, Jointures, Variables, Vues.
 
@@ -7,7 +8,7 @@
 
 <a href="url"><img src="images/Datamining222.png" align="middle" height="169" width="800" ></a>
 
-
+&nbsp;
 # [Projet 2 : Data visualization](https://public.tableau.com/app/profile/keven.luu/viz/Contoso2009Tableaudebordinteractif/Contoso2009Tableaudebordinteractif)
 * Outils utilisés : Tableau, SQL, Excel, Actions, Filtres.
 
