@@ -12,5 +12,5 @@
 
 * Créer un tableau de bord interactif montrant un aperçu de la rentabilité de Contoso (entreprise fictive) pour l'année 2019.
 
-<a href="url"><img src="images/TableauImage2.png" align="middle" height="450" width="800" ></a>
+<a href="url"><img src="images/Tableau333.png" align="middle" height="450" width="800" ></a>
 
