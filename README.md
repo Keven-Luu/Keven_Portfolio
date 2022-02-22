@@ -1,4 +1,3 @@
-&nbsp;
 ## [Projet 1 : Data mining](https://github.com/Keven-Luu/Portfolio-projects/blob/main/Data%20mining%20project%20with%20SQL%20(part%201).sql)
 * Outils utilisés : SQL, CTE, Fonctions d’agrégation, Fonctions Windows, Jointures, Variables, Vues.
 
