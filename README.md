@@ -8,7 +8,7 @@
 
 &nbsp;
 ## [Projet 2 : Data visualization](https://public.tableau.com/app/profile/keven.luu/viz/Contoso2009Tableaudebordinteractif/Contoso2009Tableaudebordinteractif)
-* Outils utilisés : Tableau, SQL, Excel, Actions, Filtres.
+* Outils utilisés : Tableau, SQL, Excel, Actions, Filtres, Tableau croisé dynamique, Diagramme circulaire en beignet, Graphique de série chronologique, Tableau d'arborescence 
 
 * Créer un tableau de bord interactif montrant un aperçu de la rentabilité de Contoso (entreprise fictive) pour l'année 2019.
 
