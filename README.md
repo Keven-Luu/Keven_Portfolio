@@ -20,7 +20,7 @@
 
 * Créer un tableau de bord interactif montrant un aperçu de la rentabilité de Contoso (entreprise fictive) pour l'année 2019
 
-<a href="url"><img src="mages/Screen%20Shot%202022-03-08%20at%2012.23.50%20AM.png" align="middle" height="485" width="800" ></a>
+<a href="url"><img src="images/Screen%20Shot%202022-03-08%20at%2012.23.50%20AM.png" align="middle" height="485" width="800" ></a>
 
 &nbsp;
 ## Projet 4 : Data visualization – Explanatory storytelling 
