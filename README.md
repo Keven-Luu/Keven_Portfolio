@@ -26,7 +26,7 @@
 
 * https://public.tableau.com/app/profile/keven.luu/viz/Contoso2009Tableaudebordinteractif/Dashboard4
 
-<a href="url"><img src="images/Screen%20Shot%202022-03-09%20at%207.55.42%20PM.png" align="middle" height="485" width="800" ></a>
+<a href="url"><img src="images/Screen%20Shot%202022-03-10%20at%205.29.11%20PM.png" align="middle" height="484" width="800" ></a>
 
 &nbsp;
 ## Projet 4 : Data visualization – Explanatory storytelling 
