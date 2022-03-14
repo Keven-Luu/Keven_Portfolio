@@ -29,7 +29,7 @@
 <a href="url"><img src="images/contoso555.png" align="middle" height="450" width="800" ></a>
 
 &nbsp;
-## Projet 4 : Data visualization – Explanatory storytelling 
+## Projet 4 : Python
 
 *En cours 
 
