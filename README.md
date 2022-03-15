@@ -19,10 +19,10 @@
 <a href="url"><img src="images/datacleaning555.png" align="middle" height="441" width="800" ></a>
 
 &nbsp;
-## [Projet 3 : Data visualization – Exploratory dashboard](https://public.tableau.com/app/profile/keven.luu/viz/Contoso2009Tableaudebordinteractif/Dashboard4)
+## [Projet 3 : Data visualization](https://public.tableau.com/app/profile/keven.luu/viz/Contoso2009Tableaudebordinteractif/Dashboard4)
 * Outils utilisés : Tableau, SQL, Excel, Actions, Filtres, Tableau croisé dynamique, Diagramme circulaire en beignet, Graphique de série chronologique, Tableau d'arborescence 
 
-* Créer un tableau de bord interactif montrant un aperçu de la rentabilité de Contoso (entreprise fictive) pour l'année 2019
+* Créer un tableau de bord interactif (exploratory dashboard) montrant un aperçu de la rentabilité de Contoso (entreprise fictive) pour l'année 2019
 
 * https://public.tableau.com/app/profile/keven.luu/viz/Contoso2009Tableaudebordinteractif/Dashboard4
 
