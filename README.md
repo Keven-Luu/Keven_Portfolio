@@ -2,7 +2,7 @@
 ## [Projet 1 : Data mining](https://github.com/kevenluu/Portfolio-projects/blob/main/Data%20mining%20project%20with%20SQL%20(part%201).sql)
 * Outils utilisés : SQL, CTE, Fonctions d’agrégation, Fonctions Windows, Jointures, Variables, Vues
 
-* Créer des requêtes permettant d'identifier : Les produits les plus rentables par unité; Les profits totaux réalisés par Contoso (entreprise fictive); Les produits les plus rentables en général et leur importance relative au sein de l'entreprise en termes de profit; Les canaux les plus rentables et leur importance relative; Les villes les plus rentables et leur importance relative
+* Créer des requêtes permettant d'identifier : Les produits les plus rentables par unité; Les profits totaux réalisés par Contoso (entreprise fictive); Les produits les plus rentables en général et leur importance relative au sein de l'entreprise (en termes de profit); Les canaux les plus rentables et leur importance relative; Les villes les plus rentables et leur importance relative
 
 * https://github.com/kevenluu/Portfolio-projects/blob/main/Data%20mining%20project%20with%20SQL%20(part%201).sql
 
