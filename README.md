@@ -12,7 +12,7 @@
 ## [Projet 2 : Data cleaning](https://github.com/kevenluu/Portfolio-projects/blob/main/Data%20cleaning%20project%20with%20SQL%20(part%203).sql)
 * Outils utilisés : SQL, CTE, Excel, Fonctions d'agrégation, Fonctions Windows
 
-* Créer des requêtes permettant de : Standardiser les formats de date; Imputer la moyenne des valeurs cohérentes aux valeurs incohérentes; Remplacer les valeurs NULL ou manquantes; Supprimer les colonnes désuettes; Supprimer les duplications présumées; Décomposer une colonne en colonnes individuelles à l'aide de délimiteurs 
+* Créer des requêtes permettant de : Standardiser les formats de date; Imputer la moyenne des valeurs cohérentes aux valeurs incohérentes; Remplacer les valeurs NULL ou manquantes; Supprimer les colonnes désuètes; Supprimer les duplications présumées; Décomposer une colonne en colonnes individuelles à l'aide de délimiteurs 
 
 * https://github.com/kevenluu/Portfolio-projects/blob/main/Data%20cleaning%20project%20with%20SQL%20(part%203).sql
 
